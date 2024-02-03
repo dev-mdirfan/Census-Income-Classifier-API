@@ -1,7 +1,7 @@
 # ML With Django
 
 - In this project we are going to use Django to create a web application that will use machine learning to predict the price of a house based on the features of the house.
-- This project is a simple Django project that uses DRF to create an API for a ML model. The model is trained on the Adult Income data set and predicts whether income exceeds $50K/year based on census data.
+- This project is a simple Django project that uses DRF to create an API for a ML model. The model is trained on the Adult Income data set and predicts whether income exceeds $50K/year based on census data, leveraging Django ORM for efficient database operations.
 
 In this tutorial, I will use [Adult Income data set](https://archive.ics.uci.edu/dataset/2/adult) or [adult DataSet](adult.zip). In this data set, the ML will be used to predict whether income exceeds $50K/year based on census data. I will load data from my [public repository with data sets good for start with ML](https://github.com/pplonski/datasets-for-start).
 
